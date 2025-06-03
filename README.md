@@ -21,6 +21,6 @@ Backend: Python 3.x, Django 4.x
 
 Frontend: HTML5, CSS3, Bootstrap
 
-Database: SQLITE
+Database: SQLite
 
 Version Control: Git & GitHub
