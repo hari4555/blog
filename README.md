@@ -1,5 +1,3 @@
-:
-
 📝 Blog Platform
 A Django-based web application that enables users to create, read, update, and delete blog posts. The platform offers user authentication, profile management, and a responsive design for seamless blogging experiences.
 
@@ -17,7 +15,7 @@ Image Uploads: Users can upload images to accompany their blog posts.
 Admin Panel: Django's admin interface for managing users and blog posts.
 
 🛠️ Tech Stack
-Backend: Python 3.x, Django 4.x
+Backend: Python,Django 
 
 Frontend: HTML5, CSS3, Bootstrap
 
